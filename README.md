@@ -1,4 +1,4 @@
-# Machine Learning Utilities
+# Machine Learning Utilities by Me
 
 A comprehensive utility library for machine learning workflows, featuring ensemble methods, data visualization, feature engineering, and model evaluation tools.
 
